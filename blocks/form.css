@@ -12,7 +12,7 @@
   display: block;
   width: 100%;
   box-sizing: border-box;
-  padding: 20px 15px;
+  padding: 15px 20px;
   margin: 8px 0 32px;
   border: 1px solid #838383;
   border-radius: 4px;
@@ -32,7 +32,7 @@
   background-color: #1878dc;
   color: #fff;
   cursor: pointer;
-  transition: bacground-color 0.5s;
+  transition: background-color 0.5s;
 }
 
 .form__button:hover {
